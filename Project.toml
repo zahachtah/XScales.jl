@@ -1,0 +1,13 @@
+name = "XScales"
+uuid = "7b9a8156-0f4e-4c73-9de4-1649599a15c1"
+authors = ["Jon Norberg", "Stockholm Resilience Centre", "Stockholm University"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
